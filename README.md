@@ -85,7 +85,10 @@ data is exchanged as JSON:
 
 Currently targeting modern flavors of darwin and linux.
 
+## Misc
+
 ## License
 
 Apache 2.0
+
 
